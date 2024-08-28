@@ -1,24 +1,20 @@
 {
-  "publisher": "antfu",
+  "publisher": "YanAndFish",
   "name": "ext-name",
   "displayName": "ext-name",
   "version": "0.0.0",
   "private": true,
   "packageManager": "pnpm@9.7.1",
   "description": "",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "author": "",
   "license": "MIT",
-  "funding": "https://github.com/sponsors/antfu",
-  "homepage": "https://github.com/antfu/ext-name#readme",
+  "homepage": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/antfu/ext-name"
+    "url": "https://github.com/YanAndFish/ext-name"
   },
   "bugs": {
-    "url": "https://github.com/antfu/ext-name/issues"
-  },
-  "sponsor": {
-    "url": "https://github.com/sponsors/antfu"
+    "url": "https://github.com/YanAndFish/ext-name/issues"
   },
   "categories": [
     "Other"
@@ -70,7 +66,6 @@
     "reactive-vscode": "^0.2.0",
     "tsup": "^8.2.4",
     "typescript": "^5.5.4",
-    "vite": "^5.4.1",
     "vitest": "^2.0.5",
     "vscode-ext-gen": "^0.4.1"
   }
